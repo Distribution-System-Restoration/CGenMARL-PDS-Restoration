@@ -16,7 +16,10 @@ We employ the Soft Actor-Critic (SAC) algorithm to manage the load restoration p
 * 
 # Getting Started
 To get started with this project, follow the steps below:
-* Prerequisites
-  ** Python 3.7 or higher
-  ** PyTorch
+# Prerequisites
+* Python 3.7 or higher
+* PyTorch
+* opendssdirect
+* Opendss for Windows (available here: https://sourceforge.net/projects/electricdss/)
+  
   
