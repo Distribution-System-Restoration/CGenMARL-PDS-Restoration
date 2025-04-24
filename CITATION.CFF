@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this environment in your research, please cite it as below."
+authors:
+  - family-names: Farajzadeh Bavil
+    given-names: Ali
+  - family-names: Khodayar
+    given-names: Mahdi
+title: "Conditional Generative Multi-Agent Soft Actor-Critic for Power Distribution System Restoration"
+version: "1.0"
+date-released: 2025-04-23
+url: "https://github.com/Distribution-System-Restoration/cgenmarl-pds-restoration"
+repository-code: "https://github.com/Distribution-System-Restoration/cgenmarl-pds-restoration"
+license: MIT
+keywords:
+  - Distribution system restoration
+  - Multi-agent reinforcement learning
+  - Generative action generation
+  - Attnetion Activation Regularization
+  
